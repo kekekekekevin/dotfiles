@@ -3,10 +3,6 @@ export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
 alias ll='ls -l'
 
-alias ares='cd /Users/naritsuka.os/projects/ansible-prototype.ares/vagrant/ares.jobtalk.jp'
-alias job='cd /Users/naritsuka.os/projects/ansible-prototype.jobtalk/vagrant/websites/jobtalk.jp'
-alias ansi='cd /Users/naritsuka.os/projects/ansible-prototype.jobtalk'
-alias apopo='cd /Users/naritsuka.os/projects/apollo'
 alias gs='git status'
 alias gb='git branch'
 alias gc='git checkout'

@@ -49,10 +49,6 @@ export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
 alias ll='ls -l'
 
-alias ares='cd /Users/naritsuka.os/projects/ares.jobtalk.jp'
-alias job='cd /Users/naritsuka.os/projects/ansible-prototype.jobtalk/vagrant/websites/jobtalk.jp'
-alias ansi='cd /Users/naritsuka.os/projects/ansible-prototype.jobtalk'
-alias watch='cd /Users/naritsuka.os/jobtalk-projects/jobtalk.jp'
 alias gs='git status'
 alias gb='git branch'
 alias gc='git checkout'
